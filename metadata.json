@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Blog - AI-Powered Publishing",
+  "description": "A modern, responsive blogging platform featuring AI-assisted content generation, automated summaries, and AI image generation to elevate your storytelling experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
